@@ -6,7 +6,7 @@
 Welcome to the repository for the Bharathi Vidhyalaya School website. This project is a fully responsive website built using HTML, CSS, and JavaScript, providing a modern and intuitive user interface for the school’s online presence.
 
 ## Table of Contents
-- [Demo](#bharathyvidhyalaya.infinityfreeapp.com)
+- [Demo](bharathyvidhyalaya.infinityfreeapp.com)
 - Features
 - Installation
 - Usage
